@@ -1,0 +1,22 @@
+# ===== Discord Team Script Configuration =====
+
+# Browser: chrome | msedge | brave | opera-gx
+browser: chrome
+
+# Number of parallel threads (browser windows)
+threads: 1
+
+# Proxy settings
+proxies: false
+proxy_type: http  # http | socks5 | tor
+
+# Discord invite link
+invite_link: https://discord.gg/Eg897QSSEw
+
+# Smart retry settings
+retry_delay_base: 5       # Base delay in seconds after failure
+retry_delay_max: 60        # Maximum delay in seconds
+retry_backoff_multiplier: 2 # Multiply delay by this after each consecutive failure
+
+# 2captcha API Key for solving captchas
+captcha_api_key: "06d7d8c5513f405d7adfb0aa1a2b165d"

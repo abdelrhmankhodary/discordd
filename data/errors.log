@@ -1,0 +1,705 @@
+[2025-12-13T00:52:05.770Z] Worker-0
+Error: Python worker failed: Failed to get ballmail account
+    at callPythonWorker (E:\discord team script\dist\lock.js:56:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async processToken (E:\discord team script\dist\lock.js:313:61)
+    at async E:\discord team script\dist\lock.js:413:17
+
+[2026-03-26T15:12:48.028Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:305:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T15:13:13.366Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:305:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T15:26:26.675Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:305:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T15:51:28.442Z] TokenExtraction-Thread1: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:305:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T15:51:55.185Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:305:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:19:53.023Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:20:21.064Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:20:55.648Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:23:35.008Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:24:00.218Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:43:45.752Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:44:16.004Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:44:52.266Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:46:34.120Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:47:04.964Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:47:38.886Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T16:51:03.287Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T17:00:13.379Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T17:00:55.501Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T17:02:49.524Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T17:03:16.143Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-26T17:03:52.548Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:380:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-27T16:06:31.363Z] TokenExtraction-Thread1: page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:303:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:455:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:485:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:548:9)
+
+[2026-03-27T16:17:19.436Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:432:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:507:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:537:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:600:9)
+
+[2026-03-27T16:22:41.855Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:432:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:507:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:537:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:600:9)
+
+[2026-03-27T16:26:23.690Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:435:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:507:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:537:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:600:9)
+
+[2026-03-27T16:31:06.281Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:432:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:507:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:537:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:600:9)
+
+[2026-03-27T16:54:11.782Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T16:56:08.552Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T16:56:36.639Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T16:57:11.642Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:06:46.427Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:07:45.495Z] TokenExtraction-Thread1: page.goto: net::ERR_ABORTED at https://discord.gg/Eg897QSSEw
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:08:32.963Z] TokenExtraction-Thread2: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:09:26.326Z] TokenExtraction-Thread5: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('span:has-text("Create Account")')[22m
+[2m    - locator resolved to JSHandle@<span data-text-variant="text-md/medium" class="lineClamp1__4bd52 text-md/medium_cf4812">Create Account</span>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    50 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is not enabled[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:376:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:09:28.070Z] TokenExtraction-Thread6: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('span:has-text("Create Account")')[22m
+[2m    - locator resolved to JSHandle@<span data-text-variant="text-md/medium" class="lineClamp1__4bd52 text-md/medium_cf4812">Create Account</span>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    50 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is not enabled[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:376:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:09:57.261Z] TokenExtraction-Thread3: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:494:24)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:10:42.319Z] TokenExtraction-Thread3: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 2)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.605Z] TokenExtraction-Thread5: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.675Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.738Z] TokenExtraction-Thread4: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.808Z] TokenExtraction-Thread6: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.931Z] TokenExtraction-Thread2: Error: Could not select Month: Error: page.click: Target page, context or browser has been closed
+    at selectDateComponent (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:331:27)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at process.processImmediate (node:internal/timers:472:9)
+    at async tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:339:13)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:12:37.967Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-27T17:43:36.734Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:52:39.722Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/Eg897QSSEw"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/Eg897QSSEw"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:51.734Z] TokenExtraction-Thread5: page.goto: net::ERR_ABORTED at https://discord.gg/Eg897QSSEw
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:51.786Z] TokenExtraction-Thread2: page.goto: net::ERR_ABORTED at https://discord.gg/Eg897QSSEw
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:51.792Z] TokenExtraction-Thread4: page.goto: Target page, context or browser has been closed
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:52.132Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:51.781Z] TokenExtraction-Thread6: page.goto: net::ERR_ABORTED at https://discord.gg/Eg897QSSEw
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-28T19:55:52.238Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:06:48.656Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:07:12.041Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:07:40.336Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:08:17.456Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:11:03.957Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:14:31.953Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:15:01.304Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-03-29T00:53:34.313Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-05-12T17:01:24.026Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/Eg897QSSEw"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/Eg897QSSEw"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-09-04T15:54:22.972Z] TokenExtraction-Thread1: Error: Rate limit detected - closing browser for new profile
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:468:19)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async Promise.all (index 0)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-09-04T15:57:43.584Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:35:25.596Z] TokenExtraction-Thread1: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:38:28.416Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:42:28.821Z] TokenExtraction-Thread3: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:42:29.666Z] TokenExtraction-Thread5: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:42:30.516Z] TokenExtraction-Thread2: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:42:30.562Z] TokenExtraction-Thread4: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:42:30.724Z] TokenExtraction-Thread1: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:44:10.351Z] TokenExtraction-Thread3: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:44:10.394Z] TokenExtraction-Thread2: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:44:11.248Z] TokenExtraction-Thread5: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:44:37.132Z] TokenExtraction-Thread1: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:45:44.576Z] TokenExtraction-Thread5: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:45:44.609Z] TokenExtraction-Thread2: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:45:44.624Z] TokenExtraction-Thread3: page.goto: Timeout 60000ms exceeded.
+Call log:
+[2m  - navigating to "https://discord.gg/Eg897QSSEw", waiting until "domcontentloaded"[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:304:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:46:07.090Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T13:46:07.116Z] TokenExtraction-Thread4: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T14:03:37.144Z] TokenExtraction-Thread1: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:306:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+
+[2026-11-17T14:07:35.145Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:471:20)
+    at async startSingleThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:543:13)
+    at async startMultiThreadLoop (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:573:5)
+    at async main (C:\Users\IRON LAPTOP\Downloads\discord team script\dist\test.js:636:9)
+

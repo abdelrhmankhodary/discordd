@@ -1,0 +1,345 @@
+[2025-12-12T23:14:06.542Z] TokenExtraction-Thread1: page.goto: Navigation to "https://discord.gg/MXyWJnxqP8" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:15:16.419Z] TokenExtraction-Thread1: page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://discord.gg/MXyWJnxqP8
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:15:17.521Z] TokenExtraction-Thread2: Error: Rate limit detected in register response - closing browser for new profile
+    at tokenizer (E:\discord team script\dist\gen.js:398:19)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:16:29.025Z] TokenExtraction-Thread3: Error: Rate limit detected in register response - closing browser for new profile
+    at tokenizer (E:\discord team script\dist\gen.js:398:19)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 2)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:17:39.518Z] TokenExtraction-Thread2: Error: Rate limit detected in register response - closing browser for new profile
+    at tokenizer (E:\discord team script\dist\gen.js:398:19)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:19:13.913Z] TokenExtraction-Thread2: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (E:\discord team script\dist\gen.js:401:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:22:26.857Z] TokenExtraction-Thread2: page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://discord.gg/MXyWJnxqP8
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:24:21.010Z] TokenExtraction-Thread2: Error: Rate limit detected in register response - closing browser for new profile
+    at tokenizer (E:\discord team script\dist\gen.js:398:19)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:24:33.696Z] TokenExtraction-Thread3: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/MXyWJnxqP8"
+  navigated to "https://discord.com/app/invite-with-guild-onboarding/MXyWJnxqP8"
+============================================================
+    at tokenizer (E:\discord team script\dist\gen.js:401:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:24:33.702Z] TokenExtraction-Thread1: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (E:\discord team script\dist\gen.js:311:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:24:33.707Z] TokenExtraction-Thread2: Error: Could not select Year: Error: page.click: Target page, context or browser has been closed
+    at selectDateComponent (E:\discord team script\dist\gen.js:345:27)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at process.processImmediate (node:internal/timers:473:9)
+    at async tokenizer (E:\discord team script\dist\gen.js:353:13)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:40:45.484Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:40:45.493Z] TokenExtraction-Thread1: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (E:\discord team script\dist\gen.js:445:24)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:40:45.494Z] TokenExtraction-Thread2: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:42:02.452Z] TokenExtraction-Thread1: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (E:\discord team script\dist\gen.js:445:24)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:42:02.468Z] TokenExtraction-Thread3: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (E:\discord team script\dist\gen.js:445:24)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:42:02.471Z] TokenExtraction-Thread2: page.waitForTimeout: Target page, context or browser has been closed
+    at tokenizer (E:\discord team script\dist\gen.js:445:24)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:43:59.027Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:43:59.029Z] TokenExtraction-Thread2: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:43:59.031Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:44:40.165Z] TokenExtraction-Thread2: page.goto: net::ERR_ABORTED at https://discord.gg/MXyWJnxqP8
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:44:40.185Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:44:40.189Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:45:14.498Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:45:14.502Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:45:14.503Z] TokenExtraction-Thread2: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:324:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:489:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:511:5)
+    at async main (E:\discord team script\dist\gen.js:649:9)
+
+[2025-12-12T23:47:34.603Z] TokenExtraction-Thread3: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:47:34.604Z] TokenExtraction-Thread2: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:47:34.605Z] TokenExtraction-Thread1: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:49:39.788Z] TokenExtraction-Thread1: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:49:39.796Z] TokenExtraction-Thread2: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:49:39.795Z] TokenExtraction-Thread3: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:52:51.450Z] TokenExtraction-Thread1: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:53:18.039Z] TokenExtraction-Thread3: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:53:33.349Z] TokenExtraction-Thread2: page.waitForSelector: Timeout 50000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]') to be visible[22m
+[2m  - waiting for locator('input[placeholder="What should everyone call you?"]')[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:316:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:54:12.213Z] TokenExtraction-Thread3: page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://discord.gg/MXyWJnxqP8
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:54:28.031Z] TokenExtraction-Thread2: page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://discord.gg/MXyWJnxqP8
+Call log:
+[2m  - navigating to "https://discord.gg/MXyWJnxqP8", waiting until "domcontentloaded"[22m
+
+    at tokenizer (E:\discord team script\dist\gen.js:314:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:54:50.980Z] TokenExtraction-Thread2: Error: Could not select Month: Error: page.click: Target page, context or browser has been closed
+    at selectDateComponent (E:\discord team script\dist\gen.js:345:27)
+    at async tokenizer (E:\discord team script\dist\gen.js:351:13)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async Promise.all (index 1)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:54:50.988Z] TokenExtraction-Thread1: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (E:\discord team script\dist\gen.js:401:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
+[2025-12-12T23:54:50.990Z] TokenExtraction-Thread3: page.waitForURL: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
+    at tokenizer (E:\discord team script\dist\gen.js:401:20)
+    at async startSingleThreadLoop (E:\discord team script\dist\gen.js:459:13)
+    at async startMultiThreadLoop (E:\discord team script\dist\gen.js:481:5)
+    at async main (E:\discord team script\dist\gen.js:619:9)
+
